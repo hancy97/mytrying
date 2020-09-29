@@ -1,0 +1,25 @@
+body {
+    /* content: '';
+    background-color: rgb(214, 193, 193);*/
+    background-image: url("images/backimg1.jpg");
+    color: white;
+}
+
+.below {
+    text-align: center
+}
+
+.vid {
+    width: auto;
+}
+
+.bgp {
+    background-image: url("images/bali.jpg");
+}
+
+.foot img {
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+    border-width: 50%;
+}
